@@ -1,4 +1,3 @@
-
 var arrayTest = [1, 2, 3, 3, 2, 1, 4];
 
 document.getElementById("app").innerHTML = `
